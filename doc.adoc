@@ -7,6 +7,8 @@ toc::[]
 
 # LibrePhotos
 
+image::/screenshots/logo.png[Sunset,100,,role="right"]
+
 Basic documentation for installing and using LibrePhtos.
 
 ## Installation
